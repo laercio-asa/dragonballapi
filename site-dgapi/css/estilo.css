@@ -1,0 +1,9 @@
+.nav-dropdown {
+    width: 100vh;
+}
+
+@media (max-width: 768px) {
+    .nav-dropdown {
+        width: 100%;
+    }
+}
