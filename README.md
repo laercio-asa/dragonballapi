@@ -5,3 +5,5 @@
 Exemplo de site usando a api do Dragon Ball Z
 
 acesse o site <a href="https://laercio-asa.github.io/dragonballapi/site-dgapi/" target="_blank">Dragon Ball Z - API</a>
+
+Laercio Sá
